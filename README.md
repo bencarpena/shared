@@ -12,6 +12,7 @@
 5. Machine Learning codes and data model to detect number of Android applications being reverse engineered - https://www.kaggle.com/carpena/android-security/
 6. Server-side code to push data to web endpoints real-time - https://github.com/bencarpena/SignalRChat
 7. Hungry Python - ingesting data from APIs using Python and embedding them into databricks for full automation
+8. Enterprise Workforce Data Hub - an innovative data engineering solution that automates the production of critical workforce data for Chevron and feeds data-driven work and critical dashboards + KPIs.
 
 
  
