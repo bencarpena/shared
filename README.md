@@ -13,6 +13,7 @@
 6. Server-side code to push data to web endpoints real-time - https://github.com/bencarpena/SignalRChat
 7. Hungry Python - ingesting data from APIs using Python and embedding them into databricks for full automation
 8. Enterprise Workforce Data Hub - an innovative data engineering solution that automates the production of critical workforce data for Chevron and feeds data-driven work and critical dashboards + KPIs.
+9. CRM + CMS - Web-based Customer Relationship Management system with customized Content Management System for remote updates and enhancements built using .NET and SQL that are fully cloud-based.
 
 
  
