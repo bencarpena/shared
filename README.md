@@ -7,7 +7,7 @@
 4. IoT projects with Cloud, SaaS, "Level 1 AI" capabilities, and Data integrations
 * Weatherman project (senses temp + humidity) - https://github.com/bencarpena/alphacentauri-py-iot/blob/main/weatherman.md
 * The Gardener (automated plant hydration) - https://github.com/bencarpena/alphard-py-iot
-* Garage Bouncer (Level 1 AI: sense + detect + act) - https://github.com/bencarpena/arcturus-py
+* Garage Bouncer (Level 1 AI: sense + respond) - https://github.com/bencarpena/arcturus-py
 * LedZep project (Twitter listeners + cloud + workflow integration) - https://github.com/bencarpena/alphacentauri-py-iot/blob/main/ledzeppelin.md
 5. Machine Learning codes and data model to detect number of Android applications being reverse engineered - https://www.kaggle.com/carpena/android-security/
 6. Server-side code to push data to web endpoints real-time - https://github.com/bencarpena/SignalRChat
