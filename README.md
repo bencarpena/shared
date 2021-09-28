@@ -13,7 +13,7 @@
 6. Server-side code to push data to web endpoints real-time - https://github.com/bencarpena/SignalRChat
 7. Hungry Python - automated ingestion and transformation of data from APIs, sensors, databases and other heterogeneous sources using Python and Databricks to enable critical data-intensive work.
 8. Enterprise Workforce Data Hub - an innovative data engineering solution that automates the production of critical workforce data for Chevron and feeds data-driven work and critical dashboards + KPIs.
-9. CRM + CMS - Web-based Customer Relationship Management system with customized Content Management System for remote updates and enhancements built using .NET and SQL that are fully cloud-based.
+9. CRM + CMS - Web-based Customer Relationship Management system with customized Content Management System for remote updates and enhancements built using .NET and SQL and are fully cloud-based.
 10. Applied Machine Learning for auto-matching customer addresses and account management reconciliation, UPS
 11. Mainframe automation to eliminate manual key-entry workflows with binary search tree algorithm, UPS
 12. Enhanced Cybersecurity using Azure AD B2C with federated authentication, Chevron
