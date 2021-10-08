@@ -1,5 +1,5 @@
 # "inventions" list
-> 👋 Hi and Welcome! My professional portfolio https://bencarpena.github.io/
+> 👋 Hi and Welcome! Here's my professional portfolio https://bencarpena.github.io/
 
 1. Data Engineering and Operation concepts - https://github.com/bencarpena/dataengineering
 2. AWS presentation on Enterprise Mobility - https://github.com/bencarpena/aws
