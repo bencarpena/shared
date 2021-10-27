@@ -17,5 +17,5 @@
 10. Applied Machine Learning for auto-matching customer addresses and account management reconciliation, UPS
 11. Mainframe automation to eliminate manual key-entry workflows with binary search tree algorithm, UPS
 12. Enhanced Cybersecurity using Azure AD B2C with federated authentication in Chevron, [View pioneering deployment here](https://chevroncorporation.ease.apperian.com/)
-
+13. Shell Scripts used for automation, system management, and infrastructure workflows, Fujitsu [View here](https://github.com/bencarpena/binsh)
  
