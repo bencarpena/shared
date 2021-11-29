@@ -1,7 +1,7 @@
 # "inventions" list
 > 👋 Hi and Welcome! Here's my professional portfolio https://bencarpena.github.io/
 
-1. Data Engineering and Operation concepts - https://github.com/bencarpena/dataengineering
+1. Data Engineering and Operation design & architecture - https://github.com/bencarpena/dataengineering
 2. AWS presentation on Enterprise Mobility - https://github.com/bencarpena/aws
 3. Hash (ToBase64String) - https://github.com/bencarpena/hash
 4. IoT projects with Cloud, SaaS, "Level 1 AI" capabilities, and Data integrations
