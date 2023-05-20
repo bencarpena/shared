@@ -19,3 +19,4 @@
 12. Enhanced Cybersecurity using Azure AD B2C with federated authentication in Chevron, [View pioneering deployment here](https://chevroncorporation.ease.apperian.com/)
 13. Shell Scripts used for automation, system management, and infrastructure workflows, Fujitsu [View here](https://github.com/bencarpena/binsh)
 14. IEEE PAR 3131 - Recommended Practice for Data Engineering with Heterogeneous Ecosystems and Data Sources for Efficient Data Processing, Management, and Consumption; IEEE
+15. South Houston High School Computer Science Volunteer teacher Raspberry Pi + Python projects [View here](https://github.com/bencarpena/shhs-shared)
