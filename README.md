@@ -20,3 +20,4 @@
 13. Shell Scripts used for automation, system management, and infrastructure workflows, Fujitsu [View here](https://github.com/bencarpena/binsh)
 14. IEEE PAR 3131 - Recommended Practice for Data Engineering with Heterogeneous Ecosystems and Data Sources for Efficient Data Processing, Management, and Consumption; IEEE
 15. South Houston High School Computer Science Volunteer teacher Raspberry Pi + Python projects [View here](https://github.com/bencarpena/shhs-shared)
+16. REST API that reads from an Azure SQL DB and serializing output in json [C# codes here](https://github.com/bencarpena/quantum-presentation/tree/main/api/api_analysis/analysisapi)
