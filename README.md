@@ -22,3 +22,4 @@
 15. South Houston High School Computer Science Volunteer teacher Raspberry Pi + Python projects [View here](https://github.com/bencarpena/shhs-shared)
 16. REST API that reads from an Azure SQL DB and serializing output in json [C# codes here](https://github.com/bencarpena/quantum-presentation/tree/main/api/api_analysis/analysisapi)
 17. BRIK - Building Relationships through Integrated Knowledge - is a web-based enterprise integration inventory system which aims to capture and document integrations between ANY information model. [Book a demo with me and my co-creator](https://brik.azurewebsites.net)
+18. quark - a url shortener. A web app in Python that shortens URLs and links thereby making them easier to remember. [Codes here](https://github.com/bencarpena/quark)
