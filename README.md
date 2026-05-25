@@ -1,5 +1,5 @@
-# Ben Carpena | Inventions & Projects
-> 🚀 **Senior Data Engineer & AI Solutions Architect**  
+Inventions & Projects
+> 🚀 **Computer Engineer, Solutions Architect, AI Engineering 
 > 👋 Hi and Welcome! Explore my professional portfolio at [bencarpena.github.io](https://bencarpena.github.io/)
 
 ---
