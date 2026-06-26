@@ -5,7 +5,7 @@ Inventions & Projects
 ---
 
 ## 🤖 AI & Agentic Workflows
-*   **Agentic Workflows & Multi-Agent Systems:** Designing and implementing advanced AI agents and autonomous workflows using **Claude (Anthropic)**, **Gemini (Google)**, and **Databricks**. Focused on complex reasoning, tool-use, and data-driven decision-making.
+*   **Agentic Workflows & Multi-Agent Systems:** Designing and implementing advanced AI agents and autonomous workflows using **Claude (Anthropic)**, **Gemini (Google)**, and **Databricks**. Focused on complex reasoning, tool-use, auditing, and data-driven decision-making.
 *   **Agent Orchestration with n8n:** Managing and scaling agentic operations via **n8n**, enabling seamless integration between LLMs, internal APIs, and enterprise data sources.
 *   **Machine Learning for Security:** Developed data models to detect reverse-engineered Android applications. [Kaggle Dataset & Notebook](https://www.kaggle.com/carpena/android-security/)
 *   **AI-Driven Address Matching:** Applied Machine Learning for automated customer address matching and account reconciliation (UPS).
@@ -13,12 +13,12 @@ Inventions & Projects
 ## 📊 Data Engineering & Operations
 *   **Data Engineering & Operation Design:** Architectural frameworks for scalable data operations. [View Repository](https://github.com/bencarpena/dataengineering)
 *   **Hungry Python:** Automated ingestion and transformation of heterogeneous data (APIs, sensors, SCADA, databases) using Python and Databricks.
-*   **Enterprise Workforce Data Hub:** An innovative solution for Chevron that automates workforce data production for critical KPIs and dashboards.
+*   **Enterprise Workforce Data Hub:** An innovative solution that automates workforce data production and analysis for critical KPIs and dashboards.
 *   **IEEE PAR 3131:** Contributor to the Recommended Practice for Data Engineering with Heterogeneous Ecosystems.
 *   **Quantum Analysis API:** REST API built with C# and Azure SQL for high-performance data serialization. [Source Code](https://github.com/bencarpena/quantum-presentation/tree/main/api/api_analysis/analysisapi)
 
 ## 🌐 Enterprise & Web Systems
-*   **MarkSmith:** A web application for secure hashing and data integrity. [Live Site](https://hashes.azurewebsites.net)
+*   **Marksmith:** A web application for rendering markdowns beautifully! [Live Site](https://hashes.azurewebsites.net)
 *   **BRIK (Integrated Knowledge):** Web-based enterprise integration inventory system to document information model relationships. [Live Demo](https://brik.azurewebsites.net)
 *   **CRM + CMS:** Cloud-based .NET/AngularJS system for real-time customer and content management on Azure. [Live Site](https://lrmidland.azurewebsites.net)
 *   **Enterprise Security:** Pioneered federated authentication using Azure AD B2C at Chevron. [View Deployment](https://chevroncorporation.ease.apperian.com/)
